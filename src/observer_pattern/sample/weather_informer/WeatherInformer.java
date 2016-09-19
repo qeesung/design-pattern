@@ -7,7 +7,7 @@ import java.util.Observable;
 /**
  * Created by qeesung on 2016/9/18.
  */
-public class WeatherInformerPush extends Observable{
+public class WeatherInformer extends Observable{
     private WeatherData weatherData ;
 
     public void setWeatherData(WeatherData weatherData) {
