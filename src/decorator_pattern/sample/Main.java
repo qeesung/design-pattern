@@ -10,12 +10,12 @@ import decorator_pattern.sample.decorator.Mocha;
 public class Main {
     public static void main(String ... args) {
         Baverage baverage1 = new Espresso();
-        System.out.println("cost is " + baverage1.cost());
+        System.out.println(baverage1.getDescription()+" cost is " + baverage1.cost());
         System.out.println("> add some mocha");
         baverage1 = new Mocha(baverage1);
-        System.out.println("cost is " + baverage1.cost());
+        System.out.println(baverage1.getDescription()+" cost is " + baverage1.cost());
         System.out.println("> add some milk");
         baverage1 = new Milk(baverage1);
-        System.out.println("cost is " + baverage1.cost());
+        System.out.println(baverage1.getDescription()+" cost is " + baverage1.cost());
     }
 }
