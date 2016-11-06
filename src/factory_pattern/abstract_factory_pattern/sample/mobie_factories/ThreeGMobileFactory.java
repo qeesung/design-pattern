@@ -1,10 +1,10 @@
-package factory_pattern.abstract_factory_pattern.mobie_factories;
+package factory_pattern.abstract_factory_pattern.sample.mobie_factories;
 
-import factory_pattern.abstract_factory_pattern.ApplePhone;
-import factory_pattern.abstract_factory_pattern.MobileFactory;
-import factory_pattern.abstract_factory_pattern.NokiaPhone;
-import factory_pattern.abstract_factory_pattern.phones.ThreeGApplePhone;
-import factory_pattern.abstract_factory_pattern.phones.ThreeGNokiaPhone;
+import factory_pattern.abstract_factory_pattern.sample.ApplePhone;
+import factory_pattern.abstract_factory_pattern.sample.MobileFactory;
+import factory_pattern.abstract_factory_pattern.sample.NokiaPhone;
+import factory_pattern.abstract_factory_pattern.sample.phones.ThreeGApplePhone;
+import factory_pattern.abstract_factory_pattern.sample.phones.ThreeGNokiaPhone;
 
 /**
  * Created by qeesung on 2016/11/6.

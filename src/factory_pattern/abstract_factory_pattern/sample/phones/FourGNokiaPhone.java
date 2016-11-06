@@ -1,6 +1,6 @@
-package factory_pattern.abstract_factory_pattern.phones;
+package factory_pattern.abstract_factory_pattern.sample.phones;
 
-import factory_pattern.abstract_factory_pattern.NokiaPhone;
+import factory_pattern.abstract_factory_pattern.sample.NokiaPhone;
 
 /**
  * Created by qeesung on 2016/11/6.

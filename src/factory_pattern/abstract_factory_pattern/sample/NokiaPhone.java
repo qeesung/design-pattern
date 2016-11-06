@@ -1,4 +1,4 @@
-package factory_pattern.abstract_factory_pattern;
+package factory_pattern.abstract_factory_pattern.sample;
 
 /**
  * Created by qeesung on 2016/11/6.

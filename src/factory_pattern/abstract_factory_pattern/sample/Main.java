@@ -1,8 +1,7 @@
-package factory_pattern.abstract_factory_pattern;
+package factory_pattern.abstract_factory_pattern.sample;
 
-import factory_pattern.abstract_factory_pattern.mobie_factories.FourGMobidleFactory;
-import factory_pattern.abstract_factory_pattern.mobie_factories.ThreeGMobileFactory;
-import factory_pattern.abstract_factory_pattern.phones.ThreeGNokiaPhone;
+import factory_pattern.abstract_factory_pattern.sample.mobie_factories.FourGMobidleFactory;
+import factory_pattern.abstract_factory_pattern.sample.mobie_factories.ThreeGMobileFactory;
 
 /**
  * Created by qeesung on 2016/11/6.
