@@ -16,3 +16,4 @@ those are learned and implemented design patterns:
     - [Double Check](https://github.com/qeesung/design-pattern/tree/master/src/singleton_pattern/sample/thread_safe/double_check)
   - [Thread Unsafe](https://github.com/qeesung/design-pattern/tree/master/src/singleton_pattern/sample/thread_unsafe)
 - [Command Pattern](https://github.com/qeesung/design-pattern/tree/master/src/command_pattern)
+- [Adapter Pattern](https://github.com/qeesung/design-pattern/tree/master/src/adapter_pattern)
