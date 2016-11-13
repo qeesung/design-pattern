@@ -18,3 +18,4 @@ those are learned and implemented design patterns:
 - [Command Pattern](https://github.com/qeesung/design-pattern/tree/master/src/command_pattern)
 - [Adapter Pattern](https://github.com/qeesung/design-pattern/tree/master/src/adapter_pattern)
 - [Facade Pattern](https://github.com/qeesung/design-pattern/tree/master/src/facade_pattern)
+- [Template Method Pattern](https://github.com/qeesung/design-pattern/tree/master/src/template_method_pattern)
